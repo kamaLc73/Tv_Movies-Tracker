@@ -1,0 +1,8 @@
+*.txt
+*.db
+*.json
+*.md
+
+env
+
+__pycache__
