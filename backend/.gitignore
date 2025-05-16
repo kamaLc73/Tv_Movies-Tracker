@@ -1,8 +1,4 @@
-*.txt
 *.db
-*.json
 
 __pycache__
 .pytest_cache
-t.py
-*.db
