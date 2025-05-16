@@ -1,9 +1,1 @@
-backend:
-    Learn Sqlalchemy 
-    Learn Pydantic
-    Learn Fastapi
-front end:
-Learn React.js
-
-
 Use : https://www.tvmaze.com/api

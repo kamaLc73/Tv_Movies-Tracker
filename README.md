@@ -120,9 +120,3 @@ Visit: [http://localhost:3000](http://localhost:3000/)
 Student in Data Science, AI & Digital Health Engineering
 
 GitHub: [@kamaLc73](https://github.com/kamaLc73)
-
----
-
-## 📝 License
-
-MIT License
